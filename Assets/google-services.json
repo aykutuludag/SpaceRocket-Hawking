@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678198831079",
+    "firebase_url": "https://spacerocket-9f7b0.firebaseio.com",
+    "project_id": "spacerocket-9f7b0",
+    "storage_bucket": "spacerocket-9f7b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678198831079:android:1336deca028bbe73",
+        "android_client_info": {
+          "package_name": "org.uusoftware.spacerocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678198831079-r77ulvsko87pbqh6fhpdtr5and4fm0kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.uusoftware.spacerocket",
+            "certificate_hash": "7434eb4e5a889c1f4e66effb0e7e3a3cb4dff275"
+          }
+        },
+        {
+          "client_id": "678198831079-dc2re4cn0poophelbfunv3muba71pbc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHhZX22bV3yWXIWPoa4w8EX6h_wj8jnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678198831079-dc2re4cn0poophelbfunv3muba71pbc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
