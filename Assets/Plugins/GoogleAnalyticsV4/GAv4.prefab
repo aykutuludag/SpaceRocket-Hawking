@@ -51,18 +51,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa336ff3365034234845848b54bfee17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  androidTrackingCode: 
-  IOSTrackingCode: 
-  otherTrackingCode: 
-  productName: 
-  bundleIdentifier: 
-  bundleVersion: 
+  androidTrackingCode: UA-66337763-10
+  IOSTrackingCode: UA-66337763-10
+  otherTrackingCode: UA-66337763-10
+  productName: 'SpaceRocket: HAWKING'
+  bundleIdentifier: org.uusoftware.spacerocket
+  bundleVersion: 1.0
   dispatchPeriod: 5
   sampleFrequency: 100
   logLevel: 1
-  anonymizeIP: 0
-  UncaughtExceptionReporting: 0
+  anonymizeIP: 1
+  UncaughtExceptionReporting: 1
   sendLaunchEvent: 0
   dryRun: 0
   sessionTimeout: 1800
-  enableAdId: 0
+  enableAdId: 1
